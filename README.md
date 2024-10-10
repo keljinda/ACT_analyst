@@ -3,7 +3,16 @@ Project 1: Standardized Test Analysis
 ### Overview
 ![image](https://github.com/user-attachments/assets/b9e7c70e-051b-459b-96b5-ccee8bf45a1e)
 
+The purpose of this project is to lay the groundwork for those who wish to become data scientists or comprehend the data analyst cycle. In addition to the Python programming structure, the implementation structure is created from the beginning to the end of the audience presentation.
+The project's standard requirements are
+1. Technically, Github will still be used.
+2. Fundamental Python Coding and Key Libraries
+3. The Jupyter notebook
+4. The life cycle of a data analyst project
+5. Inquisitive about the information and eager to learn more to get the answer
 
+After finishing the assignment, students will benefit from the course and learn the what, when, where, why, and how of becoming data scientists.
+   
 ### Problem Statement
 
 The ACT is mandatory in several states, which can lead to higher participation rates and a more comprehensive dataset for analysis. 
@@ -25,7 +34,7 @@ There are 3 years of data set for ACT Analysis to find the participation trend.
 * [`act_2019.csv`](./data/act_2019.csv): 2019 ACT Scores by State ([source](https://blog.prepscholar.com/act-scores-by-state-averages-highs-and-lows))
 * [us_regions_divisions.csv](https://github.com/keljinda/ACT_analyst/blob/main/data/us_regions_divisions.csv) : us regions and divisions, including state 
 * 
-#### Datadictionary 
+#### Data Dictionary 
 
 
 | Field | Type |Description
