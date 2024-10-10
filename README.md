@@ -14,6 +14,7 @@ The project's standard requirements are
 After finishing the assignment, students will benefit from the course and learn the what, when, where, why, and how of becoming data scientists.
    
 ### Problem Statement
+"What is the current state of the ACT test in the U.S.?"
 
 The ACT is mandatory in several states, which can lead to higher participation rates and a more comprehensive dataset for analysis. 
 
