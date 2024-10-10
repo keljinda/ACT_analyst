@@ -10,7 +10,7 @@ The ACT is mandatory in several states, which can lead to higher participation r
 
 First Question: How is the ACT test situation in the US? The likelihood of taking it, overall, reflects the quality of the score.
 
-The participation rate in the ACT test varies significantly across different states in the US, and this variation may impact the overall quality of composite scores. 
+ACT participation rates vary a lot across different U.S. states. Some states require the test, while others don’t, and this affects both test scores and how students perform overall. Looking at these trends by year and region can help us understand the reasons for participation drops and how they might relate to college readiness. Comparing ACT participation with SAT rates could also give more insights and help improve participation in areas where it’s decreasing.
 
 ---
 
@@ -38,8 +38,9 @@ There are 3 years of data set for ACT Analysis to find the participation trend.
 
 ---
 
-### Deliverables
+### Conclusion
 
+A deeper analysis is recommended to investigate the specific reasons behind declining participation rates in regions with historically high participation. This analysis should focus on how changes in educational policy, economic conditions, and test perceptions are shaping these trends. For example, one question to consider is: Why does accounting, a major that typically doesn't require advanced science knowledge, require a science score from the ACT?
 
 
 
