@@ -1,3 +1,4 @@
+
 Project 1: Standardized Test Analysis
 
 ### Overview
@@ -30,9 +31,9 @@ ACT participation rates vary a lot across different U.S. states. Some states req
 There are 3 years of data set for ACT Analysis to find the participation trend.
 
 
-* [`act_2017.csv`](./data/act_2017.csv): 2017 ACT Scores by State ([source](https://blog.prepscholar.com/act-scores-by-state-averages-highs-and-lows))
-* [`act_2018.csv`](./data/act_2018.csv): 2018 ACT Scores by State ([source](https://blog.prepscholar.com/act-scores-by-state-averages-highs-and-lows))
-* [`act_2019.csv`](./data/act_2019.csv): 2019 ACT Scores by State ([source](https://blog.prepscholar.com/act-scores-by-state-averages-highs-and-lows))
+* [act_2017.csv](./data/act_2017.csv): 2017 ACT Scores by State ([source](https://blog.prepscholar.com/act-scores-by-state-averages-highs-and-lows))
+* [act_2018.csv](./data/act_2018.csv): 2018 ACT Scores by State ([source](https://blog.prepscholar.com/act-scores-by-state-averages-highs-and-lows))
+* [act_2019.csv](./data/act_2019.csv): 2019 ACT Scores by State ([source](https://blog.prepscholar.com/act-scores-by-state-averages-highs-and-lows))
 * [us_regions_divisions.csv](https://github.com/keljinda/ACT_analyst/blob/main/data/us_regions_divisions.csv) : us regions and divisions, including state 
 * 
 #### Data Dictionary 
